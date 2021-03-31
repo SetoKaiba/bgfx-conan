@@ -6,8 +6,8 @@ bgfx conan recipe (currently Windows & Macos x64 only).
 - Build bgfx with Genie with options
 
 # Usage
-- Use the command below to use it locally
-  - conan create . bgfx/2021.03.22@\<user\>/\<channel\>
+- Use the command below to use it locally(version can be found in conandata.yml)
+  - conan create . bgfx/<\version\>@\<user\>/\<channel\>
   - Add the require to the conanfile.txt or conanfile.py
 - Windows
   - Ensure that VS is installed
