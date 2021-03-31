@@ -7,7 +7,7 @@ bgfx conan recipe (currently Windows & Macos x64 only).
 
 # Usage
 - Use the command below to use it locally(version can be found in conandata.yml)
-  - conan create . bgfx/<\version\>@\<user\>/\<channel\>
+  - conan create . bgfx/\<version>@\<user\>/\<channel\>
   - Add the require to the conanfile.txt or conanfile.py
 - Windows
   - Ensure that VS is installed
