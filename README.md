@@ -1,6 +1,6 @@
 # bgfx-conan
 
-bgfx conan recipe (currently windows only).
+bgfx conan recipe (currently Windows & Macos x64 only).
 
 ## Feature
 - Build bgfx with Genie with options
@@ -14,4 +14,4 @@ bgfx conan recipe (currently windows only).
     - 2019 (tested)
     - 2017 (untested)
 - Macos
-  - Initial support (untested)
+  - Initial support for Macos x64 (untested)
