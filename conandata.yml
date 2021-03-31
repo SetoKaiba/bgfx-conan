@@ -2,11 +2,20 @@ bgfx:
   "2021.03.22":
     sha256: 411f2e38dc47886ef0388c6c5092e51cc69e3eba96048c5ac6b1d05825fdef19
     url: https://github.com/bkaradzic/bgfx/archive/99383a0eb57e6d46125edc4c2d2149556a170be8.tar.gz
+  "2021.03.28":
+    sha256: 5cbe03329fb795b3d330750c155c86f6f52427572e4e079e6910a416a9a6bf94
+    url: https://github.com/bkaradzic/bgfx/archive/3c7e21f1a683c4a4c6cc6c17064845bf4a849633.tar.gz
 bx:
   "2021.03.22":
+    sha256: 2c4fdf53af5297832e4b0917c953a37098dcda0f9816d1480b6f0e249471a70e
+    url: https://github.com/bkaradzic/bx/archive/f939b2c3172b1c19f15659613b2f9f9de1f5e820.tar.gz
+  "2021.03.28":
     sha256: 2c4fdf53af5297832e4b0917c953a37098dcda0f9816d1480b6f0e249471a70e
     url: https://github.com/bkaradzic/bx/archive/f939b2c3172b1c19f15659613b2f9f9de1f5e820.tar.gz
 bimg:
   "2021.03.22":
     sha256: 15a0837ecef588197b44f4e7c735bc15e0ec0b1fe1ed5a1be42f1221637a12aa
     url: https://github.com/bkaradzic/bimg/archive/200165a0dd8517e32bc9a315e3f8e656ebd7d362.tar.gz
+  "2021.03.28":
+    sha256: 26ed89ec6e8954d9c74e69df113d28582559a293cd3b07c7bff889bd9d250094
+    url: https://github.com/bkaradzic/bimg/archive/f0ba7cb88cdd13651ca3691230c723e0c8090c45.tar.gz
